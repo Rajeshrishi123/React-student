@@ -1,0 +1,18 @@
+.btn{
+  margin-right: 15px;
+}
+
+.table-container{
+  margin-top: 20px;
+}
+
+.span{
+  color: red;
+}
+
+.create-container , input ,label {
+  display: grid;
+  margin-top: 10px;
+}
+
+
